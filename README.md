@@ -13,3 +13,6 @@
 
 <p align="center"
 <br> @meoworm 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 ` ੈ˚ ★
+
+
+<p align="center"> ![q](https://c.tenor.com/Jojpr9QgMLoAAAAd/tenor.gif)
