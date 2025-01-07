@@ -2,7 +2,7 @@
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/angel.jpg" 
 </p         
        
-<p align="center"
+<p 
 <br> <img width="350" src="https://github.com/meoworm/meoworm/blob/main/начало.jpg"
 </p
                  
