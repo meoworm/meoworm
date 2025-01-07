@@ -1,6 +1,6 @@
 <p align="center"
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/angel.jpg" 
-</p
+</p>
 <p align="center"
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/начало.jpg"     
 
@@ -17,4 +17,4 @@
 <p align="center"
 <br> @meoworm 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 ` ੈ˚ ★
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/конец.jpg"    
-</p
+</p>
