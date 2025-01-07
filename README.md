@@ -1,8 +1,8 @@
 <p align="center"
-<br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/angel.jpg" 
+<br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ангелок.PNG" 
 </p>
 <p align="center"
-<br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/начало.jpg"     
+<br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/перв.PNG"     
 
        
 <br> ◖𝐅 𝐈 𝐍 𝐍◗
@@ -16,5 +16,5 @@
 
 <p align="center"
 <br> @meoworm 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 ` ੈ˚ ★
-<br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/конец.jpg"    
+<br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/второ.PNG"    
 </p>
