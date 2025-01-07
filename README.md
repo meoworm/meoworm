@@ -3,8 +3,6 @@
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/начало.jpg"  
 </p
          
-         
-
 <br> ◖𝐅 𝐈 𝐍 𝐍◗
 </p> 
 
