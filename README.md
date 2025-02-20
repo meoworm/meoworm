@@ -15,8 +15,8 @@
 <br>⊰┄─┉─.¨ ☾ ⋆.─┉─┄⊱
 
 <p align="center"
-<br> ┍  @meoworm 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖  ┒
-<br> ┗  ► @meowormi 𝚊𝚛𝚝 𝚝𝚐𝚌 ` ੈ˚   ┙
+<br> ┍  @brekkis 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖  ┒
+<br> ┗  ► @meoworm 𝚊𝚛𝚝 𝚝𝚐𝚌 ` ੈ˚   ┙
 <br> ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/второ.PNG"    
 </p>
