@@ -15,7 +15,7 @@
 <br>⊰┄─┉─.¨ ☾ ⋆.─┉─┄⊱
 
 <p align="center"
-<br>    [𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖](https://t.me/mergenorn)
+<br>    [𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖] (https://t.me/mergenorn)
 <br>   ► 𝐜𝐚𝐥𝐦𝐧𝐞𝐬𝐬      .` ੈ˚   
 <br> ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/второ.PNG"    
