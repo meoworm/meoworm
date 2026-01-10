@@ -1,5 +1,5 @@
 ![Demo of v1.0.0 features](https://github.com/meoworm/meoworm/blob/main/6a15a66a8a76cc9927437fcbb464d218.gif)
-<div class="tenor-gif-embed" data-postid="13640689672127054099" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mike-wheeler-mike-stranger-things-hellfire-club-hellfire-gif-13640689672127054099">Mike Wheeler Stranger Things GIF</a>from <a href="https://tenor.com/search/mike+wheeler-gifs">Mike Wheeler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Demo of v1.0.0 features](https://github.com/meoworm/meoworm/blob/main/mike-wheeler-mike.gif)
 
 <p align="center"
 <br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ангелок.PNG" 
