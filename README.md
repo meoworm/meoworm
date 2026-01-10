@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=meoworm&style=for-the-badge&color=9b2d30&label=＞＜)
+
 <p align="center"
 <br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ангелок.PNG" 
 </p>
@@ -10,7 +12,6 @@
 
 <p align="center"
 <br>⊰┄─┉─.¨ † ⋆.─┉─┄⊱
-  ![](https://komarev.com/ghpvc/?username=meoworm&style=for-the-badge&color=9b2d30&label=＞＜)
 <br><sup><i>𝚑𝚎/𝚑im ⟡ 𝚛𝚞𝚜𝚜𝚒𝚊𝚗</i></sup>
 <br> <sup>𝚘𝚗𝚕𝚢 𝚠𝟸𝚒/𝚌+𝚑</sup>
 <br>⊰┄─┉─.¨ ☾ ⋆.─┉─┄⊱
