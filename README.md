@@ -1,8 +1,9 @@
 
 <div align="center">
-  
-<img width="400" src="https://github.com/meoworm/meoworm/blob/main/борис.gif" />
+   
+<img width="400" src="https://github.com/meoworm/meoworm/blob/main/борис.gif" />  
 
+---
 <p align="center"
 <br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ангелок.PNG" 
 </p>
