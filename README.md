@@ -2,6 +2,13 @@
 <br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/45678.gif" 
 </p>
   
+<p align="center"
+  
+<br> подпишись на [тгк](https://t.me/slatemerle), друг
+<br> пиши по хуйне я люблю это
+<br> всегда не против новых знакомств
+ </p> 
+ 
 ---
 <p align="center"
 <br> <img width="500" src="https://github.com/meoworm/meoworm/blob/main/34567.gif" 
