@@ -1,6 +1,7 @@
-<div align="center">  
+
+<div align="center">
   
-![Demo of v1.0.0 features](https://github.com/meoworm/meoworm/blob/main/mike-wheeler-mike.gif)
+<img width="400" src="https://github.com/meoworm/meoworm/blob/main/борис.gif" />
 
 <p align="center"
 <br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ангелок.PNG" 
