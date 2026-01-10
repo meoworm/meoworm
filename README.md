@@ -20,5 +20,6 @@
 <br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/второ.PNG"    
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=meoworm&style=for-the-badge&color=9b2d30&label=-ˋˏ✄┈┈┈┈)
+<p align="center"
+<br> ![](https://komarev.com/ghpvc/?username=meoworm&style=for-the-badge&color=9b2d30&label=＞＜)
+</p>
