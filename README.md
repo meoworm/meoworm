@@ -1,6 +1,8 @@
-
 <p align="center"
-<br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ода.gif" 
+<br> <img width="500" src="https://github.com/meoworm/meoworm/blob/main/45678.gif" 
+</p>
+<p align="center"
+<br> <img width="500" src="https://github.com/meoworm/meoworm/blob/main/34567.gif" 
 </p>
 
   
