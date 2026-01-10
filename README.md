@@ -1,6 +1,4 @@
-<p align="center">
-  <gif src="https://files.catbox.moe/cjr8nr.gif" alt="sorbetflake" width="450"/>
-</p>
+![Demo of v1.0.0 features](https://github.com/meoworm/meoworm/blob/main/6a15a66a8a76cc9927437fcbb464d218.gif)
 
 
 <p align="center"
