@@ -1,3 +1,8 @@
+<p align="center">
+  <gif src="https://files.catbox.moe/cjr8nr.gif" alt="sorbetflake" width="450"/>
+</p>
+
+
 <p align="center"
 <br> <img width="300" src="https://github.com/meoworm/meoworm/blob/main/ангелок.PNG" 
 </p>
