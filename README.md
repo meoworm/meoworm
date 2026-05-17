@@ -18,9 +18,8 @@
 <p align="center"
 <br> ＊*•̩̩͙✩•̩̩͙*˚◖𝐅 𝐈 𝐍 𝐍◗˚*•̩̩͙✩•̩̩͙*˚＊
 </p> 
-<p align="center"
-<br> <img width="400" src="https://github.com/meoworm/meoworm/blob/main/наконец.gif"
-</p> 
+
+
 <p align="center"
 <br>𝗵𝗲/𝗵𝗶𝗺  ⟡  𝗿𝘂𝘀𝘀𝗶𝗮𝗻</i></sup>
 </p> 
